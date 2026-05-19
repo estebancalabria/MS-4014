@@ -398,7 +398,12 @@ Expandir el agente a:
 
 # Componentes de un agente de IA
 
-Los agentes modernos se construyen combinando distintos componentes.
+Los agentes modernos se construyen combinando distintos componentes:
+* Modelo Base
+* Orquestador
+* Conocimiento
+* Herramienta
+* Autonomia
 
 ---
 
