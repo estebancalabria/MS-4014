@@ -40,6 +40,9 @@ Dependiendo de su diseño y propósito, los agentes pueden variar enormemente en
 # Tipos de agentes de IA
 
 Los agentes pueden entenderse como un espectro de capacidades.
+* Agentes de recuperación
+* Agentes de tareas
+* Agentes autónomos
 
 ## Agentes de recuperación
 
