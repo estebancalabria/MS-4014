@@ -43,7 +43,6 @@ Microsoft 365 Copilot puede ampliarse a través de distintos niveles de compleji
 
 # 1. Conectores de Copilot
 
-## (Resumen mantenido)
 Permiten indexar contenido externo y hacerlo buscable en Microsoft 365.
 
 - Mejora de búsqueda y recuperación
@@ -54,7 +53,6 @@ Permiten indexar contenido externo y hacerlo buscable en Microsoft 365.
 
 # 2. Agentes declarativos en Copilot Studio
 
-## (Resumen mantenido)
 Plataforma low-code para crear agentes conversacionales integrados en Copilot.
 
 - Experiencia guiada
@@ -65,7 +63,6 @@ Plataforma low-code para crear agentes conversacionales integrados en Copilot.
 
 # 3. Microsoft 365 Agents Toolkit y Visual Studio Code
 
-## (Resumen mantenido)
 Herramienta pro-code para crear agentes declarativos avanzados con control total.
 
 - Integración con APIs
