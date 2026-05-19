@@ -1,11 +1,4 @@
-Perfecto, Esteban.  
-Acá tenés **EL laboratorio definitivo**, actualizado a **2026**, para crear y probar **un agente de Teams usando Teams AI Library**, **SIN Teams Toolkit**, **SIN Developer Portal**, **solo código**, como funciona HOY.
 
-Este es el modelo **legacy pero vigente**, y Copilot puede llamarlo como plugin.
-
-Voy directo, técnico y sin vueltas.
-
----
 
 # 🧪 LABORATORIO COMPLETO — **Agente de Teams con Teams AI Library (2026)**  
 **Objetivo:**  
