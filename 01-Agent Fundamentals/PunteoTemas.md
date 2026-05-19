@@ -4,4 +4,4 @@
 2. Tipos de Agente
 3. Bots, RPA y Multi Agente
 4. Valor Empresarial y Casos de Uso
-5. Componentes de un agente
+5. Componentes de un agente y Flujo General
