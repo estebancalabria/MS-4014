@@ -24,6 +24,29 @@
  
 # Fundamentos
 
+* Componentes de Un Agente
+   * LLM
+   * Orquestador
+   * Conocimiento
+   * Herramientas
+   * Autonomia
+
+# Agentes en Microsoft
+
+* Adoptar  << Costo Fijo
+   * Ver los que existen  (Quick Wins)
+   * Analista
+   * Investigador
+* Opciones para crear agente dentro de 365  << Costo Fijo
+   * Dentro de Copilot para 365 ir a nuevo a gente
+   * https://copilotstudio.microsoft.com/
+* Construir agente (Dentro de 365 o Fuera)  << Costo por USO
+   * Programar
+   * VSCode
+   * SDK (Software Development Kit)
+   * Azure Foundry - Ai
+      * https://ai.azure.com/
+* Hibrido
 
 # Glosario
 
